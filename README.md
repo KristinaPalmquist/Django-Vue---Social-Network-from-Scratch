@@ -15,6 +15,7 @@ create static sign up page
 create static log in page
 create static feed page
 Create static message page
+Make "people you may know"-component
 Create a toast component
 Set up the backend
 Create a virtual environment
